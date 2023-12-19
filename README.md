@@ -53,11 +53,11 @@ The OLAP Cube provides a multidimensional view of healthcare data, enabling adva
 
 **SSIS Package**:
 
-![SSIS Package](https://github.com/3amory99/HealthCare-DWH-Integration-and-Analysis/blob/master/images/SSIS%20Package.PNG)
+![SSIS Package](https://github.com/youssefAshraf99/HealthCare-DWH-Integration-and-Analysis-master/blob/master/images/1.png)
 
 **Patient Dimension Data Flow**:
 
-![Patient Dimension Data Flow](https://github.com/3amory99/HealthCare-DWH-Integration-and-Analysis/blob/master/images/DFT_DimPatients.PNG)
+![Patient Dimension Data Flow](https://github.com/youssefAshraf99/HealthCare-DWH-Integration-and-Analysis-master/blob/master/images/2.png)
 
 **SSAS OLAP Cube**
 
